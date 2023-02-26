@@ -9,6 +9,6 @@
 
 <p><img align="left" src="https://github-readme-stats-gbolanho.vercel.app/api/top-langs?username=gbolanho&show_icons=true&locale=en&layout=compact&count_private=true&ran=a" alt="gbolanho" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gbolanho&show_icons=true&locale=en&count_private=true" alt="gbolanho" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gbolanho&show_icons=true&locale=en&count_private=true&langs_count=10" alt="gbolanho" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gbolanho&" alt="gbolanho" /></p>
